@@ -17,16 +17,16 @@ export const products = [
   {
     id: 4,
     img: "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    link: "long-thunder-5328.on.fleek.co",
+    link: "https://uber-clone-bkcsplayer.vercel.app/",
   },
   {
     id: 5,
     img: "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    link: "long-thunder-5328.on.fleek.co",
+    link: "withered-sea-0918.on.fleek.co",
   },
   {
     id: 6,
     img: "https://images.pexels.com/photos/5845732/pexels-photo-5845732.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    link: "long-thunder-5328.on.fleek.co",
+    link: "summer-mountain-9847.on.fleek.co",
   },
 ];
