@@ -1,5 +1,5 @@
 import "./about.css";
-import Award from "../../img/binance.png";
+import Award from "../../img/tlax.PNG";
 
 const About = () => {
   return (
@@ -15,19 +15,19 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">About Me</h1>
+        <h1 className="a-title">About Us</h1>
         <p className="a-sub">
-        Proficiency with UI/UX tools and React
+        About the company's profile and content, please fill in by yourself
         </p>
         <p className="a-desc">
-        A full-stack project built using React as the front-end + .NET as the back-end framework. Easy-App is a highly customized enterprise management tool. Serverless deployment because of the use of Amazon Cloud Services. Efficient, stable, and inexpensive.
+        About the company's profile and content, please fill in by yourself
         </p>
         <div className="a-award">
-          <img src={Award} alt="" className="a-award-img" />
+          {/* <img src={Award} alt="" className="a-award-img" /> */}
           <div className="a-award-texts">
-            <h4 className="a-award-title">Project In Progress</h4>
+            <h4 className="a-award-title">Big Title here</h4>
             <p className="a-award-desc">
-             Develop an automated grid trading bot based on Binance API and Python
+            About the company's profile and content, please fill in by yourself
             </p>
           </div>
         </div>
