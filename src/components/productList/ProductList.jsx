@@ -6,10 +6,10 @@ const ProductList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Create & inspire. It's Lama</h1>
+        <h1 className="pl-title">Projects</h1>
         <p className="pl-desc">
-        Serverless system based on React+IPFS deployment.
-IPFS is a decentralized storage protocol based on blockchain technology.
+
+{/* Scan Me */}
         </p>
       </div>
       <div className="pl-list">
