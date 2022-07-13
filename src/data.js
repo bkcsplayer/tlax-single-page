@@ -1,32 +1,32 @@
 export const products = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    link: "autumn-wave-7318.on.fleek.co",
+    img: "https://storageapi.fleek.co/9674628e-724d-4bf5-b72d-1881b66105ed-bucket/Frame%201%20(4).png",
+    link: "",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/6444/pencil-typography-black-design.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    link: "jolly-rain-6013.on.fleek.co",
+    img: "https://storageapi.fleek.co/9674628e-724d-4bf5-b72d-1881b66105ed-bucket/Frame%201.png",
+    link: "",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    link: "silent-sun-8875.on.fleek.co",
+    img: "https://storageapi.fleek.co/9674628e-724d-4bf5-b72d-1881b66105ed-bucket/Frame%201%20(1).png",
+    link: "",
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    link: "https://uber-clone-bkcsplayer.vercel.app/",
+    img: "https://storageapi.fleek.co/9674628e-724d-4bf5-b72d-1881b66105ed-bucket/Frame%201%20(2).png",
+    link: "",
   },
   {
     id: 5,
-    img: "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    link: "withered-sea-0918.on.fleek.co",
+    img: "https://storageapi.fleek.co/9674628e-724d-4bf5-b72d-1881b66105ed-bucket/Frame%201%20(3).png",
+    link: "",
   },
   {
     id: 6,
-    img: "https://images.pexels.com/photos/5845732/pexels-photo-5845732.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    link: "summer-mountain-9847.on.fleek.co",
+    img: "https://storageapi.fleek.co/9674628e-724d-4bf5-b72d-1881b66105ed-bucket/Frame%201%20(5).png",
+    link: "next-markdown-blog-lyart-mu.vercel.app",
   },
 ];
