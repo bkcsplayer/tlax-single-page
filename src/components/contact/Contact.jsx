@@ -41,7 +41,7 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +1 587-719-8431 
+              +1 587-966-9668 
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
@@ -49,13 +49,13 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              7090 57 St SE, Calgary, AB T2C 5B1
+              Calgary, Albert
             </div>
           </div>
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>We are waiting for your mail with an excited heart
+            <b>Hi There~
               </b> 
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
