@@ -15,19 +15,26 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">About Us</h1>
+        <h1 className="a-title">Wechat Mini App</h1>
         <p className="a-sub">
-        About the company's profile and content, please fill in by yourself
+        The applet does not need to be downloaded and installed, just click and use</p>
+        <p className="a-sub">
+        Mini program development cost is low, sitting on a super platform with 1.3 billion users, no need to worry about traffic
+
         </p>
-        <p className="a-desc">
-        About the company's profile and content, please fill in by yourself
+        <p className="a-sub">
+        Drink one less Starbucks a day and you can have your own mini program
+
         </p>
+        {/* <p className="a-desc">
+        About the company's profile and content, please fill in by yourself
+        </p> */}
         <div className="a-award">
           {/* <img src={Award} alt="" className="a-award-img" /> */}
           <div className="a-award-texts">
-            <h4 className="a-award-title">Big Title here</h4>
+            <h4 className="a-award-title">Do more with less</h4>
             <p className="a-award-desc">
-            About the company's profile and content, please fill in by yourself
+            Whether online or offline, we are inseparable from traffic
             </p>
           </div>
         </div>
