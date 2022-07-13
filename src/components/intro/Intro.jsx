@@ -1,24 +1,24 @@
 import "./intro.css";
-import Me from '../../img/home.png'
+import Me from '../../img/home1.png'
 
 const Intro = () => {
   return (
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className="i-intro">Welcome To TLAX Express</h2>
-          <h1 className="i-name">Amazon's partner</h1>
+          <h2 className="i-intro">Khtain Digital Technology</h2>
+          <h1 className="i-name">Pioneer in the field of enterprise digitalization</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">1</div>
-              <div className="i-title-item">2</div>
-              <div className="i-title-item">3</div>
-              <div className="i-title-item">4</div>
-              <div className="i-title-item">5</div>
+              <div className="i-title-item">App Design</div>
+              <div className="i-title-item">Web Design</div>
+              <div className="i-title-item">Tiktok Ecology </div>
+              <div className="i-title-item">E-commerce System</div>
+              <div className="i-title-item">Short Video</div>
             </div>
           </div>
           <p className="i-desc">
-          Amazon's courier cooperation quality partner 
+          In this world of rapid technological progress, if you want to survive, you must continue to learn. 
 
           </p>
         </div>
